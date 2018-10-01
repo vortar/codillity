@@ -29,6 +29,5 @@ public class Calculator {
         Calculator test = new Calculator(3,3);
         System.out.println(test.dodawanie());
 
-
     }
 }
